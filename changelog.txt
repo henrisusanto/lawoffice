@@ -1,0 +1,61 @@
+Version 2.0.2
+		* Fixed VC column error if 2 team members selected.
+		* Added more styles for team shortcode
+Version 2.0.1
+		* https fix
+		* plugins updated
+Version 2.0
+		* show phone number in header fix
+		* cart - "remove button" style fix
+		* woocommerce styles improved
+		* royal slider installation fixed
+Version 1.9.2
+		* Tribe Events deprecation fix
+
+Version 1.9.1
+		* meta field to show phone num on apple devices added
+		* plugins updated
+
+Version 1.9
+		* Map marker description fix
+		* WP_Widget deprecated. Now using _construct ( since WP 4.3.0)
+
+Version 1.8
+		* VC critical update
+
+Version 1.7
+		* VC plugin updated
+		* VC compatibility improved
+		* Instagram plugin updated
+
+Version 1.6
+		* fixed Share Buttons
+		* new algorithm for color schemes
+
+Version 1.5
+		* fix for "magnificPopup is not a function" error
+		* theme installer updated
+
+Version 1.4
+		+ Added: Child theme
+		* Dummy data installation improved
+
+Version 1.3
+		* Fixed social share button in post
+		* Fixed minor color issues
+
+Version 1.2
+		+ Added some styling to booking calendar
+		* Fixed booking calendar width problem in Chrome
+		* debug_mode option and dependent files removed
+		* Booking slot popup img improved
+		* Fixed prettyPhoto bug
+		* Partners section horizontal scroll removed
+		* Fixed icon-colors in footer - from blue to red(theme style)
+		* Fixed sidebar tags:hover color
+
+Version 1.1
+		+ Added: Built-in demo data import: one click  - and your website becomes a precise copy of our demo site!
+
+Version 1.0
+		Release
