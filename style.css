@@ -4297,3 +4297,12 @@ h1 .wpb_text_column p, h2 .wpb_text_column p, h3 .wpb_text_column p, h4 .wpb_tex
 #form_popup .sc_infobox, #form_popup .sc_infobox p {font-size: 14px !important;line-height: 18px !important;}
 
 .tparrows {z-index: 1000 !important;}
+
+.wpb_text_column.wpb_content_element .wpb_wrapper p img {
+  margin: 5px 50px
+}
+@media screen and (max-width: 768px) {
+  .wpb_text_column.wpb_content_element .wpb_wrapper p img:nth-child(4) {
+    margin: 5px 75px
+  }
+}
